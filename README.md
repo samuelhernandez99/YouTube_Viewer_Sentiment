@@ -1,1 +1,1 @@
-A tutorial-based project for practicing end-to-end MLOps pipeline concepts, including data versioning, experiment tracking, and containerized deployment.
+A tutorial-based project for practicing end-to-end MLOps pipeline concepts, including data versioning, experiment tracking, containerized deployment, cloud deployment, and a dashboard for visualizing sentiment analysis.
